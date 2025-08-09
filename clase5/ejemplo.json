@@ -1,0 +1,9 @@
+{
+  "nombre": "Daniel",
+  "apellido": "Villa",
+  "edad": 29,
+  "soltero": true,
+  "domicilio": {
+    "calle": "Av patricios 999"
+  }
+}
