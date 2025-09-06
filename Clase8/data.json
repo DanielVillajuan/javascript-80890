@@ -1,0 +1,144 @@
+{
+    "comentarios": [
+        {
+            "id": "com_001",
+            "idUsuario": "user_001",
+            "nombre": "María González",
+            "puntaje": 5,
+            "comentario": "Excelente producto, llegó en perfecto estado y superó mis expectativas. Muy recomendado."
+        },
+        {
+            "id": "com_002",
+            "idUsuario": "user_002",
+            "nombre": "Carlos Rodríguez",
+            "puntaje": 4,
+            "comentario": "Buen producto, calidad aceptable. El envío fue rápido pero la caja llegó un poco dañada."
+        },
+        {
+            "id": "com_003",
+            "idUsuario": "user_003",
+            "nombre": "Ana Martínez",
+            "puntaje": 5,
+            "comentario": "Increíble calidad, exactamente como se describe. El servicio al cliente es excelente."
+        },
+        {
+            "id": "com_004",
+            "idUsuario": "user_004",
+            "nombre": "Luis Fernández",
+            "puntaje": 3,
+            "comentario": "El producto está bien pero tardó más de lo esperado en llegar. La calidad es regular."
+        },
+        {
+            "id": "com_005",
+            "idUsuario": "user_005",
+            "nombre": "Sofia Herrera",
+            "puntaje": 5,
+            "comentario": "Perfecto! Llegó antes de tiempo y la calidad es excepcional. Definitivamente compraré de nuevo."
+        },
+        {
+            "id": "com_006",
+            "idUsuario": "user_006",
+            "nombre": "Diego Morales",
+            "puntaje": 4,
+            "comentario": "Buen producto por el precio. Cumple con lo esperado, aunque podría mejorar el empaque."
+        },
+        {
+            "id": "com_007",
+            "idUsuario": "user_007",
+            "nombre": "Valentina Castro",
+            "puntaje": 2,
+            "comentario": "No quedé satisfecha. El producto no coincide con la descripción y la atención al cliente fue mala."
+        },
+        {
+            "id": "com_008",
+            "idUsuario": "user_008",
+            "nombre": "Roberto Silva",
+            "puntaje": 5,
+            "comentario": "Excelente compra! El producto es de muy buena calidad y el envío fue súper rápido."
+        },
+        {
+            "id": "com_009",
+            "idUsuario": "user_009",
+            "nombre": "Carmen Vega",
+            "puntaje": 4,
+            "comentario": "Me gustó mucho el producto. Buena relación calidad-precio, aunque el envío tardó un poco."
+        },
+        {
+            "id": "com_010",
+            "idUsuario": "user_010",
+            "nombre": "Andrés Jiménez",
+            "puntaje": 3,
+            "comentario": "El producto está bien pero no es exactamente lo que esperaba. La atención fue correcta."
+        },
+        {
+            "id": "com_011",
+            "idUsuario": "user_011",
+            "nombre": "Isabella Ruiz",
+            "puntaje": 5,
+            "comentario": "¡Increíble! Superó todas mis expectativas. La calidad es excelente y el servicio al cliente muy amable."
+        },
+        {
+            "id": "com_012",
+            "idUsuario": "user_012",
+            "nombre": "Miguel Torres",
+            "puntaje": 4,
+            "comentario": "Buen producto, llegó en buen estado. El tiempo de envío fue el esperado. Recomendado."
+        },
+        {
+            "id": "com_013",
+            "idUsuario": "user_013",
+            "nombre": "Lucía Mendoza",
+            "puntaje": 1,
+            "comentario": "Muy decepcionante. El producto llegó defectuoso y el proceso de devolución fue complicado."
+        },
+        {
+            "id": "com_014",
+            "idUsuario": "user_014",
+            "nombre": "Javier López",
+            "puntaje": 5,
+            "comentario": "Perfecto en todos los aspectos. Calidad excelente, envío rápido y atención al cliente de primera."
+        },
+        {
+            "id": "com_015",
+            "idUsuario": "user_015",
+            "nombre": "Paola Sánchez",
+            "puntaje": 4,
+            "comentario": "Me gustó el producto, cumple con lo prometido. El precio es justo y la calidad es buena."
+        },
+        {
+            "id": "com_016",
+            "idUsuario": "user_016",
+            "nombre": "Fernando Díaz",
+            "puntaje": 3,
+            "comentario": "Producto aceptable pero el envío tardó más de lo indicado. La calidad es regular."
+        },
+        {
+            "id": "com_017",
+            "idUsuario": "user_017",
+            "nombre": "Gabriela Ramos",
+            "puntaje": 5,
+            "comentario": "¡Excelente! El producto es perfecto y llegó antes de lo esperado. Muy satisfecha con la compra."
+        },
+        {
+            "id": "com_018",
+            "idUsuario": "user_018",
+            "nombre": "Alejandro Cruz",
+            "puntaje": 4,
+            "comentario": "Buen producto, buena calidad. El servicio fue correcto aunque el empaque podría ser mejor."
+        },
+        {
+            "id": "com_019",
+            "idUsuario": "user_019",
+            "nombre": "Natalia Vargas",
+            "puntaje": 2,
+            "comentario": "No quedé conforme. El producto no es como se describe y la atención al cliente fue deficiente."
+        },
+        {
+            "id": "com_020",
+            "idUsuario": "user_020",
+            "nombre": "Sebastián Moreno",
+            "puntaje": 5,
+            "comentario": "Increíble experiencia de compra. Producto de alta calidad, envío rápido y excelente atención."
+        }
+    ]
+}

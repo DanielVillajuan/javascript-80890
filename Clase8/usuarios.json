@@ -1,0 +1,144 @@
+{
+    "usuarios": [
+        {
+            "id": "user_001",
+            "nombre": "María",
+            "apellido": "González",
+            "edad": 28,
+            "reputacion": "gold"
+        },
+        {
+            "id": "user_002",
+            "nombre": "Carlos",
+            "apellido": "Rodríguez",
+            "edad": 35,
+            "reputacion": "base"
+        },
+        {
+            "id": "user_003",
+            "nombre": "Ana",
+            "apellido": "Martínez",
+            "edad": 42,
+            "reputacion": "platinium"
+        },
+        {
+            "id": "user_004",
+            "nombre": "Luis",
+            "apellido": "Fernández",
+            "edad": 31,
+            "reputacion": "base"
+        },
+        {
+            "id": "user_005",
+            "nombre": "Sofia",
+            "apellido": "Herrera",
+            "edad": 26,
+            "reputacion": "super diamond"
+        },
+        {
+            "id": "user_006",
+            "nombre": "Diego",
+            "apellido": "Morales",
+            "edad": 39,
+            "reputacion": "gold"
+        },
+        {
+            "id": "user_007",
+            "nombre": "Valentina",
+            "apellido": "Castro",
+            "edad": 24,
+            "reputacion": "base"
+        },
+        {
+            "id": "user_008",
+            "nombre": "Roberto",
+            "apellido": "Silva",
+            "edad": 45,
+            "reputacion": "super diamond"
+        },
+        {
+            "id": "user_009",
+            "nombre": "Carmen",
+            "apellido": "Vega",
+            "edad": 33,
+            "reputacion": "gold"
+        },
+        {
+            "id": "user_010",
+            "nombre": "Andrés",
+            "apellido": "Jiménez",
+            "edad": 29,
+            "reputacion": "base"
+        },
+        {
+            "id": "user_011",
+            "nombre": "Isabella",
+            "apellido": "Ruiz",
+            "edad": 37,
+            "reputacion": "platinium"
+        },
+        {
+            "id": "user_012",
+            "nombre": "Miguel",
+            "apellido": "Torres",
+            "edad": 41,
+            "reputacion": "gold"
+        },
+        {
+            "id": "user_013",
+            "nombre": "Lucía",
+            "apellido": "Mendoza",
+            "edad": 22,
+            "reputacion": "base"
+        },
+        {
+            "id": "user_014",
+            "nombre": "Javier",
+            "apellido": "López",
+            "edad": 48,
+            "reputacion": "super diamond"
+        },
+        {
+            "id": "user_015",
+            "nombre": "Paola",
+            "apellido": "Sánchez",
+            "edad": 30,
+            "reputacion": "gold"
+        },
+        {
+            "id": "user_016",
+            "nombre": "Fernando",
+            "apellido": "Díaz",
+            "edad": 36,
+            "reputacion": "base"
+        },
+        {
+            "id": "user_017",
+            "nombre": "Gabriela",
+            "apellido": "Ramos",
+            "edad": 27,
+            "reputacion": "platinium"
+        },
+        {
+            "id": "user_018",
+            "nombre": "Alejandro",
+            "apellido": "Cruz",
+            "edad": 34,
+            "reputacion": "gold"
+        },
+        {
+            "id": "user_019",
+            "nombre": "Natalia",
+            "apellido": "Vargas",
+            "edad": 25,
+            "reputacion": "base"
+        },
+        {
+            "id": "user_020",
+            "nombre": "Sebastián",
+            "apellido": "Moreno",
+            "edad": 43,
+            "reputacion": "super diamond"
+        }
+    ]
+}
